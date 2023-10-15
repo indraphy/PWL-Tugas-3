@@ -1,0 +1,17 @@
+/* headerStyles.css */
+
+nav {
+  background-color: #007bff;
+  padding: 10px 20px;
+}
+
+nav a {
+  color: #fff;
+  margin-right: 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
